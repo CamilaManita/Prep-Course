@@ -1,0 +1,4 @@
+for: Se coloca la palabra for, seguida de paréntesis y un conjunto de llaves. Dentro de los paréntesis colocaremos primero una variable, para que el bucle sepa sobre que se debe repetir. Una condición y el ciclo se repetirá hasta que la misma no se cumpla. Y tercero, incrementaremos la variable ya declarada.
+&&: Este es el operador "AND" ("Y" en español). Esto revisa que las 2 condiciones sean verdaderas. Y si es así, devolverá true. Si uno o los dos, son falso. Devolverá false.
+||: Este es el operador "OR" ("O" en español). Este revisa y si una de las expresiones es verdadera, devuelve true. Si una o ambas de las condiciones es verdadero, devuelve true. Si ambas condiciones son falsas, devuelve false.
+!:  Este es el operador "NOT" ("NO" en español). Este revisa y devulve el valor booleando (true o false) opuesto a lo que indica la condición.
