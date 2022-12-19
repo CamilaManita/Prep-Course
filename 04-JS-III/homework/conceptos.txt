@@ -1,0 +1,1 @@
+Arrays: Parecido a una lista, que se usa con el fin de agrupar elementos de una misma variable y así recorrer la lista para operaciones
