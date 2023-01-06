@@ -1,0 +1,11 @@
+Objetos: Contienen mucha información sobre una sola cosa
+
+Propiedades: Las propiedades de un objeto, son un atributo, que define o representa a las características del objeto, como el nombre, color, tamaño, etc.
+
+Métodos: Las funciones guardadas en un objeto se denominan métodos.
+
+Bucle `for…in`: Este recorrerá cada propiedad del objeto y finaliza cuando se hayan iterado todas las claves
+
+Notación de puntos vs notación de corchetes: En javascript podemos acceder a las propiedades y/o funciones de un objeto usando cualquier notación: el punto o los corchetes.
+Hay dos principales diferencias: 1. Cuando usamos corchetes podemos acceder a propiedades que tiene un espacio o caracter no permitido en la notación de punto (por ejemplo, miMascota.numero de amigos no es válidos, pero miMascota['numero de amigos'] sí lo es).
+2. Si queremos minificar nuestro código, la notación del punto no es válida, debemos usar la notación de corchetes.
